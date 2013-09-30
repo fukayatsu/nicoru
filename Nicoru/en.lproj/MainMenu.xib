@@ -715,7 +715,7 @@
                     </box>
                     <customView id="w8t-Zd-jLQ">
                         <rect key="frame" x="3" y="5" width="473" height="314"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                     </customView>
                 </subviews>
             </view>
